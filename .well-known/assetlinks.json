@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.parvgoud6_beep.twa",
+    "sha256_cert_fingerprints": ["83:87:EF:AB:5A:7D:A7:D0:E1:EB:FF:6D:7F:57:EF:D6:85:DF:A2:C1:92:67:64:A0:9B:C6:DF:E1:02:7C:E7:F2"]
+  }
+}]
